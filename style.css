@@ -1,0 +1,52 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 0;
+    margin: 0; 
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(42, 42, 42);
+}
+header{
+    margin: 0 auto;
+    max-width: 700px;
+    
+    
+}
+ul{
+    list-style: none;
+    overflow: hidden;
+    
+}
+
+li{
+    float: left;
+    padding: 5px 90px;
+}
+
+li a{
+    display: block;
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.caso{
+    background-color: aliceblue;
+    text-align: left;
+    max-width: 700px;
+    margin: 15px auto;
+    padding: 30px;
+}
+
+.black{
+    background-color: black;
+}
+.green{
+    background-color: green;
+}
+.purple{
+    background-color: purple;
+}
